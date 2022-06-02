@@ -8,3 +8,4 @@ Projects and Practicals by Asst. Prof. Paras B. Wadher
 
 
 ![GitHub followers](https://img.shields.io/github/followers/paraswadher?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/paraswadher?style=social)
