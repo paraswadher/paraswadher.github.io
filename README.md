@@ -7,4 +7,4 @@ Projects and Practicals by Asst. Prof. Paras B. Wadher
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/paraswadher)
 
 
-https://img.shields.io/github/followers/paraswadher?style=social
+![GitHub followers](https://img.shields.io/github/followers/paraswadher?style=social)
